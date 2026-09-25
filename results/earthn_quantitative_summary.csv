@@ -1,0 +1,17 @@
+metric,value
+Total simulated scenarios,21.0
+Failure scenarios,14.0
+No-failure scenarios,7.0
+First simulated failure temperature (°C),7.0
+Overall mean baseline system service (%),74.03061224489795
+Overall mean Earth-N service (%),85.69727891156462
+Overall mean improvement (percentage points),11.66666666666667
+Failure-only mean baseline system service (%),61.04591836734697
+Failure-only mean Earth-N service (%),78.54591836734694
+Failure-only mean improvement (percentage points),17.500000000000004
+Failure-only median improvement (percentage points),20.71428571428572
+Failure-only minimum improvement (percentage points),3.214285714285703
+Failure-only maximum improvement (percentage points),20.71428571428572
+Failure-only improvement standard deviation,5.804575145664331
+Failure-only median baseline system service (%),54.285714285714285
+Failure-only median Earth-N service (%),75.0

@@ -1,0 +1,6 @@
+temperature_c,grid_stress_percent,failure,severity,system_service_percent,critical_service_percent,failed_node,affected_nodes
+0,75.0,NO,0.0,100.0,100.0,,0
+5,90.0,NO,0.0,100.0,100.0,,0
+10,105.0,YES,0.2500000000000002,86.07142857142858,76.66666666666666,GridStation,7
+15,120.0,YES,0.9999999999999998,54.28571428571429,53.333333333333336,GridStation,7
+20,135.0,YES,1.7500000000000004,54.285714285714285,53.333333333333336,GridStation,7
